@@ -19,7 +19,8 @@ Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :co
 
 ## Get in touch :coffee:
 
-
+## My contribution graph get eaten by the snake 🐍:
+![snake gif](https://github.com/yatinnargotra/yatinnargotra/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
