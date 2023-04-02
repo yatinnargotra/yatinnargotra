@@ -19,7 +19,7 @@ Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :co
 
 ## Get in touch :coffee:
 
-# Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 20px>
+## Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 20px>
 <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt = "Python" height = 40px> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg" alt = "C" height = 40px> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-plusplus.svg" alt = "C++" height = 40px> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" alt = "Java" height = 40px> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" alt = "Dart" height = 40px> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>  
 
 <h2>Connect with me on:</h2>
@@ -30,7 +30,7 @@ Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :co
 <a href="https://www.codechef.com/users/yatinnargotra"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/2880px-Codechef%28new%29_logo.svg.png" height=50></a>
 
 
-## My contribution graph getting eaten by the snake 🐍:
+<h2>My contribution graph getting eaten by the snake 🐍:</h2>
 <!-- ![snake gif](https://github.com/yatinnargotra/yatinnargotra/blob/output/github-contribution-grid-snake.gif) -->
 
 <picture>
@@ -39,9 +39,9 @@ Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :co
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yatinnargotra/yatinnargotra/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Spotify
 
 <!-- div {text-align: center;} -->
+<h1>SPOTIFY</h1>  </div>
 
 <div align= center style:" display: grid; grid-template-columns: 1fr 1fr; grid-gap: 71px ">
 <a herf="https://spotify-github-profile.vercel.app/api/view?uid=7oruagsngwd62388zgv3qyo9k&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=7oruagsngwd62388zgv3qyo9k&redirect=true" target="_top">
