@@ -41,7 +41,7 @@ Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :co
 
 
 <!-- div {text-align: center;} -->
-<h1>SPOTIFY</h1>  </div>
+<h2>SPOTIFY</h2>  </div>
 
 <div align= center style:" display: grid; grid-template-columns: 1fr 1fr; grid-gap: 71px ">
 <a herf="https://spotify-github-profile.vercel.app/api/view?uid=7oruagsngwd62388zgv3qyo9k&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=7oruagsngwd62388zgv3qyo9k&redirect=true" target="_top">
