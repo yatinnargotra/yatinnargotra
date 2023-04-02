@@ -41,7 +41,11 @@ Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :co
 
 ## Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7oruagsngwd62388zgv3qyo9k&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=7oruagsngwd62388zgv3qyo9k&redirect=true)
+<!-- div {text-align: center;} -->
+
+<div align= center style:" display: grid; grid-template-columns: 1fr 1fr; grid-gap: 71px ">
+<a herf="https://spotify-github-profile.vercel.app/api/view?uid=7oruagsngwd62388zgv3qyo9k&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=7oruagsngwd62388zgv3qyo9k&redirect=true" target="_top">
+<img height="340px" class="grid-child green" src="https://spotify-github-profile.vercel.app/api/view?uid=7oruagsngwd62388zgv3qyo9k&cover_image=true&theme=compact&cover_image=true&theme=default"/></a>
 </div>
 
 <!--
